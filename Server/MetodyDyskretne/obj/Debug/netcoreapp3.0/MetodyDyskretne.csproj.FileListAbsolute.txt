@@ -1,0 +1,11 @@
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.exe
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.deps.json
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.runtimeconfig.json
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.runtimeconfig.dev.json
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.dll
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\bin\Debug\netcoreapp3.0\MetodyDyskretne.pdb
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\obj\Debug\netcoreapp3.0\MetodyDyskretne.csprojAssemblyReference.cache
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\obj\Debug\netcoreapp3.0\MetodyDyskretne.AssemblyInfoInputs.cache
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\obj\Debug\netcoreapp3.0\MetodyDyskretne.AssemblyInfo.cs
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\obj\Debug\netcoreapp3.0\MetodyDyskretne.dll
+C:\Users\Shprei\Desktop\Discrete-methods-main\Server\MetodyDyskretne\obj\Debug\netcoreapp3.0\MetodyDyskretne.pdb
